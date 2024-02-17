@@ -4,3 +4,4 @@ pandas
 streamlit_option_menu
 requests
 matplotlib
+folium
