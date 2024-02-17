@@ -1,1 +1,6 @@
-import matplotlib.pyplot as plt
+numpy
+streamlit
+pandas
+streamlit_option_menu
+requests
+matplotlib
