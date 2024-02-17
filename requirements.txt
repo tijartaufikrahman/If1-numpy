@@ -5,3 +5,4 @@ streamlit_option_menu
 requests
 matplotlib
 folium
+folium_static
